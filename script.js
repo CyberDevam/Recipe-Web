@@ -158,6 +158,5 @@ document.addEventListener("DOMContentLoaded", () => {
       }).join('');
 
       parent.innerHTML = format; 
-      console.log(parent.innerHTML);
   }
 });
